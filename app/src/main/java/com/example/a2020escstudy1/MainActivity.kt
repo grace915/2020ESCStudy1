@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
             main_tv_weather.text = "맑은 날"
             main_iv_weather.isVisible = false
             main_iv_sunny.isVisible = true
-            main_iv_cloudy.isVisible = false
+            main_iv_cloudy.isVisible = true
             main_iv_rainy.isVisible = false
             main_iv_snowy.isVisible = false
 
